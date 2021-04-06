@@ -60,6 +60,7 @@ a {
   margin: 0px; }
 
 body {
+  margin: 0 !important ; 
   line-height: 26px;
   font-size: 16px;
   font-family: "Roboto", sans-serif;
@@ -3118,6 +3119,10 @@ h6 {
   background-image: -webkit-linear-gradient(
 0deg
 , #766dff 0%, #88f3ff 100%);
+}
+.card { 
+  margin-top: 5% !important;
+  margin-bottom: 2% !important;
 }
 
 
